@@ -262,6 +262,7 @@ kubectl auth can-i "*" "*" --all-namespaces
 kubectl auth can-i "*" namespace
 kubectl auth can-i "*" clusterrole
 kubectl auth can-i "*" crd
+kubectl auth can-i get node
 ```
 
 ---
